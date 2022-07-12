@@ -1,4 +1,4 @@
-## Olá, Devs 👋
+## Olá 👋
 
 #### Sou um jovem nato, com um desejo enorme de fazer alguma deferença no mundo!
 ### Estudante de Sistemas de Informação, Desenvolvimento Web e Data Science.
