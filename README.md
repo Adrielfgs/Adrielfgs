@@ -1,6 +1,6 @@
 ## Olá 👋
 
-#### Sou um jovem nato, com um desejo enorme de fazer alguma deferença no mundo!
+#### Um jovem nato cheio de vontade de fazer alguma diferença no mundo, mudar vidas e nunca deixar de aprender.
 ### Estudante de Sistemas de Informação, Desenvolvimento Web e Data Science.
 
 ####
