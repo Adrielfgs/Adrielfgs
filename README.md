@@ -3,7 +3,14 @@
 #### Sou um jovem nato, com um desejo enorme de fazer alguma deferença no mundo!
 ### Estudante de Sistemas de Informação, Desenvolvimento Web e Data Science.
 
-#### -
+####
+
+[<img src='https://img.shields.io/badge/Curriculo-000000?style=for-the-badge&logo=About.me&logoColor=white' alt='Linkedin' height='30'>](https://adrielfgs.github.io/Devweek.io) 
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/adrielfgs/)
+
+
+
+## Habilidades
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,8 +24,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrielfgs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# Projetos 
+## Projetos 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adrielfgs&repo=devweek.io)](https://github.com/Adrielfgs/Devweek.io)
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/adrielfgs/)
