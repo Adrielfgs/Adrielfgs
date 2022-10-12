@@ -1,4 +1,4 @@
-## Olá, meu nome é Adriel!
+## Olá, meu nome é Adriel! 👋🏽
 ### Sou um eterno aprendiz, apaixonado por tecnologia!
 
 ## 
